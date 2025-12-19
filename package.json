@@ -1,0 +1,28 @@
+{
+  "name": "angular-dependency-ai-agent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "@types/semver": "^7.7.1",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.4.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.4.0",
+    "openai": "^4.0.0",
+    "semver": "^7.6.0"
+  }
+}
