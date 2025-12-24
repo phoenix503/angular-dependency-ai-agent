@@ -45,3 +45,7 @@ python src/main.py /full/path/to/angular-project
 - python3 -m venv venv
 - source venv/bin/activate
 - python -m pip install -r requirements.txt
+
+  ## Output
+  <img width="1359" height="225" alt="Screenshot 2025-12-24 at 1 09 49 PM" src="https://github.com/user-attachments/assets/7fc21188-51fd-4202-bd8d-657bcb681332" />
+
