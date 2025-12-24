@@ -13,9 +13,10 @@ for Angular projects.
 ## Run
 
 ```bash
-npm install
-cp .env.example .env
-npm run dev
+npm install (in angular project)
+cp .env.example .env (if required)
+python -m pip install -r requirements.txt
+python src/main.py /full/path/to/angular-project
 ```
 ## ✨ Key Features
 
